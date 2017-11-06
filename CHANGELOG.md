@@ -82,6 +82,11 @@ All notable changes to this project will be documented in this file.
 ### loggging xml tab in the phpunit.xml.dist file.
         - (Takito and Harshita)
         
+## [2.0.0] - 2017-11-05
+### Job 9 Completed
+### Testing if it works
+        - (Takito and Harshita)
+        
 
 ********Reference_Format********s**
 ## [1.0.0] - 20**-**-**

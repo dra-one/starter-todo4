@@ -21,4 +21,5 @@ application/logs/*
 .idea/
 tmp/
 composer.phar
+.DS_Store
 

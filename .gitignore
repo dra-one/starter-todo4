@@ -23,4 +23,3 @@ application/logs/*
 tmp/
 composer.phar
 vendor/
-data/

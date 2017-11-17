@@ -1,0 +1,47 @@
+<tasks>
+
+    <item>
+        <id>1</id>
+        <taskname>COMP1234 Assignment</taskname>
+        <priority>3</priority>
+        <size>2</size>
+        <group>2</group>
+        <deadline>20170219</deadline>
+        <status>2</status>
+        <flag></flag>
+    </item>
+
+    <item>
+        <id>2</id>
+        <taskname>Another Line</taskname>
+        <priority>3</priority>
+        <size>2</size>
+        <group>2</group>
+        <deadline>20170219</deadline>
+        <status>2</status>
+        <flag></flag>
+    </item>
+
+    <item>
+        <id>3</id>
+        <taskname>More Stuff</taskname>
+        <priority>3</priority>
+        <size>2</size>
+        <group>2</group>
+        <deadline>20170219</deadline>
+        <status>2</status>
+        <flag></flag>
+    </item>
+
+    <item>
+        <id>3</id>
+        <taskname>Do Task</taskname>
+        <priority>3</priority>
+        <size>2</size>
+        <group>2</group>
+        <deadline>20170219</deadline>
+        <status>2</status>
+        <flag></flag>
+    </item>
+
+</tasks>

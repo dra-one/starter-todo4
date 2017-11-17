@@ -1,2 +1,2 @@
 # starter-todo
-A completed, working project for Lab 06
+project for Lab 07
